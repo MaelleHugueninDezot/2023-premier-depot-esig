@@ -1,3 +1,3 @@
-# 1er depot de Maelle
+# Premier depot de Maelle
 Mon premier dépôt
 nouveau paragraphe
